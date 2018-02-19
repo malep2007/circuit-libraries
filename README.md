@@ -8,4 +8,4 @@ Compilation of some Eagle CAD libraries for components that I needed to work wit
 
 ## Reach Me
 You can directly reach me through my email, ephraim.malinga@gmail.com. 
->>>>>>> e3a419a043d118ee103ec2850b1c66537b9d7777
+
